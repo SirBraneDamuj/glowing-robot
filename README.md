@@ -1,36 +1,12 @@
 # indexing
 
-FIXME: description
+## About
 
-## Installation
-
-Download from http://example.com/FIXME.
-
-## Usage
-
-FIXME: explanation
-
-    $ java -jar indexing-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+Downloads all of the card images from netrunnercards.info and puts them into your OCTGN directory.
 
 ## License
 
-Copyright © 2013 FIXME
+Copyright © 2013 Zachary Thacker
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
