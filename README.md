@@ -11,10 +11,3 @@ In the future, I will make each data pack optional so that you can install only 
 ## Thanks
 
 Thanks to netrunnercards.info for a wonderful API and to FFG for a wonderful game.
-
-## License
-
-Copyright © 2013 Zachary Thacker
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
