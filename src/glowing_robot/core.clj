@@ -1,7 +1,7 @@
-(ns indexing.core
+(ns glowing-robot.core
   (:gen-class)
-  (:require [indexing.cards :as cards]
-            [indexing.files :as files]))
+  (:require [glowing-robot.cards :as cards]
+            [glowing-robot.files :as files]))
 
 (defn -main
   "raggle fraggle"

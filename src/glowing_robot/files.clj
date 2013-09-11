@@ -1,4 +1,4 @@
-(ns indexing.files)
+(ns glowing-robot.files)
 
 (def guid-prefix "bc0f047c-01b1-427f-a439-d451eda")
 

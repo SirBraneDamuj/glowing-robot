@@ -1,4 +1,4 @@
-(ns indexing.cards
+(ns glowing-robot.cards
   (:require [clj-http.client :as client]))
 
 (defn root

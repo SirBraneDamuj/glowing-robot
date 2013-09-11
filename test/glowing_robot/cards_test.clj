@@ -1,6 +1,6 @@
-(ns indexing.cards-test
+(ns glowing-robot.cards-test
   (:require [clojure.test :refer :all]
-            [indexing.cards :refer :all]))
+            [glowing-robot.cards :refer :all]))
 
 (deftest test-route
   (testing "Route creates the url correctly"
